@@ -1,4 +1,6 @@
-﻿namespace Bookify.Domain.Apartments;
+﻿using Bookify.Domain.Apartments;
+
+namespace Bookify.Domain.Abstractions.Repositories;
 
 public interface IApartmentRepository
 {

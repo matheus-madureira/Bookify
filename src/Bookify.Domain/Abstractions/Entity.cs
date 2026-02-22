@@ -1,4 +1,6 @@
-﻿namespace Bookify.Domain.Abstractions;
+﻿using Bookify.Domain.Abstractions.Interfaces;
+
+namespace Bookify.Domain.Abstractions;
 
 public abstract class Entity(Guid id)
 {
