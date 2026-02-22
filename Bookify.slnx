@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Bookify.Domain/Bookify.Domain.csproj" Id="e24d6629-79ce-4960-ab34-faee939adf4c" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
