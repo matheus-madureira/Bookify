@@ -3,6 +3,7 @@
     <Project Path="src/Bookify.Application/Bookify.Application.csproj" Id="b9605732-e32c-42df-99ff-a3656c48d6ee" />
     <Project Path="src/Bookify.Domain/Bookify.Domain.csproj" Id="e24d6629-79ce-4960-ab34-faee939adf4c" />
     <Project Path="src/Bookify.Infrastructure/Bookify.Infrastructure.csproj" Id="9348c7bd-a893-4220-bb21-db5b47c3923c" />
+    <Project Path="src/Bookify.WebApi/Bookify.WebApi.csproj" Id="9a0b99a9-1be6-4a95-90a9-8f5c5abb547d" />
   </Folder>
   <Folder Name="/test/" />
 </Solution>
